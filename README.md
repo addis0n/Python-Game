@@ -1,6 +1,7 @@
 # Python-Game
 
 The exercise: Human behavior prediction
+
 The study of the predictability of human behavior is an intense field of research, mainly for its
 applications in stock exchanges, in games, in government treatises, sports and also to identify which
 student will give up the python course Recently, computational methods have been surpassing the
